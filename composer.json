@@ -11,5 +11,8 @@
     "minimum-stability": "dev",
     "require": {
 
+    },
+    "autoload": {
+        "files": ["ui.php"]
     }
 }
