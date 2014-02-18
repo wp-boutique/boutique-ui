@@ -1,0 +1,15 @@
+{
+    "name": "boutique/ui",
+    "description": "Admin UI for the Boutique shop.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tkjaergaard",
+            "email": "tkj@tkjaergaard.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
